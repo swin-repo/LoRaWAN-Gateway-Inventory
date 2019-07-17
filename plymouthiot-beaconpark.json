@@ -1,0 +1,18 @@
+{
+	"name": "Plymouth - Beacon Park",
+	"multi_channel": true,
+	"ttnmapper_alphashape_url": "https://ttnmapper.org/geojson/plymouthiot-beaconpark/alphashape.geojson",
+	"ttn_noc_api_url": "http://noc.thethingsnetwork.org:8085/api/v2/gateways/plymouthiot-beaconpark",
+	"operator": {
+		"name": "Robert Putt",
+		"url": "https://www.robertputt.co.uk",
+		"logo": null
+	},
+	"location": {
+		"latitude": 50.393234,
+		"longitude": -4.159669,
+		"altitude": 10
+	},
+	"gateway": "Raspberry Pi + PiSupply GW Hat",
+	"antenna": "DIY Quad Ground Plane"
+}

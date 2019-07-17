@@ -1,0 +1,18 @@
+{
+	"name": "Plymouth - North Hill",
+	"multi_channel": true,
+	"ttnmapper_alphashape_url": "http://ttnmapper.org/geojson/socem-uop-1/alphashape.geojson",
+	"ttn_noc_api_url": "http://noc.thethingsnetwork.org:8085/api/v2/gateways/socem-uop-1",
+	"operator": {
+		"name": "University of Plymouth",
+		"url": "https://www.plymouth.ac.uk/",
+		"logo": "https://d39ner1f41xyl1.cloudfront.net/assets/uoplogo-c2cfa7d3ef109801cc2c219962f20839.svg"
+	},
+	"location": {
+		"latitude": 50.3745,
+		"longitude": -4.1402,
+		"altitude": 21
+	},
+	"gateway": "The Things Gateway v1",
+	"antenna": null
+}
