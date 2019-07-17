@@ -1,0 +1,18 @@
+{
+	"name": "Plymouth - Earls Wood",
+	"multi_channel": true,
+	"ttnmapper_alphashape_url": "http://ttnmapper.org/geojson/firstliot_ttn_01/alphashape.geojson",
+	"ttn_noc_api_url": "http://noc.thethingsnetwork.org:8085/api/v2/gateways/firstliot_ttn_01",
+	"operator": {
+		"name": "Firstliot",
+		"url": "https://twitter.com/firstliot",
+		"logo": "https://pbs.twimg.com/profile_images/611128880292831233/rxvYcedz_400x400.jpg"
+	},
+	"location": {
+		"latitude": 50.41295,
+		"longitude": -4.0872116,
+		"altitude": 0
+	},
+	"gateway": "The Things Gateway v1",
+	"antenna": null
+}
