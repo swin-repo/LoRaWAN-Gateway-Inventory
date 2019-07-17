@@ -1,0 +1,18 @@
+{
+	"name": "Wadebridge - Royal Cornwall Showground",
+	"multi_channel": true,
+	"ttnmapper_alphashape_url": "https://ttnmapper.org/geojson/00800000A0002AB9/alphashape.geojson",
+	"ttn_noc_api_url": "http://noc.thethingsnetwork.org:8085/api/v2/gateways/eui-00800000a0002ab9",
+	"operator": {
+		"name": "Ver Facil Ltd.",
+		"url": "http://www.verfacil.co.uk",
+		"logo": "http://resizer.websitebuilder.prositehosting.co.uk/55/3a/553a4c95-bac0-4f54-8e92-895b80604095.png?w=400"
+	},
+	"location": {
+		"latitude": 50.51249,
+		"longitude": -4.8671017,
+		"altitude": 103
+	},
+	"gateway": null,
+	"antenna": null
+}
