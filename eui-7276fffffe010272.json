@@ -1,0 +1,18 @@
+{
+	"name": "Camelford - Tremail",
+	"multi_channel": true,
+	"ttnmapper_alphashape_url": "https://ttnmapper.org/geojson/v2g-uk-ttn-gateway1/alphashape.geojson",
+	"ttn_noc_api_url": "http://noc.thethingsnetwork.org:8085/api/v2/gateways/v2g-uk-ttn-gateway1",
+	"operator": {
+		"name": "V2G EVSE Ltd.",
+		"url": "http://www.v2g-evse.com/",
+		"logo": null
+	},
+	"location": {
+		"latitude": 50.64793,
+		"longitude": -4.602024,
+		"altitude": 249
+	},
+	"gateway": "The Things Gateway v1",
+	"antenna": null
+}
